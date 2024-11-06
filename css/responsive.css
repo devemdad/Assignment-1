@@ -1,0 +1,347 @@
+
+
+@media(max-width:575px) {
+    .navbar .container .btn-contact{
+        margin-bottom:10px !important;
+    }
+    /* hero section start */
+    .hero-section .container h1 {
+        font-size: 42px;
+    }
+    .hero-section .container img {
+        margin-top: 60px;
+    }
+    .hero-section .container {
+        padding: 100px 35px 50px 35px;
+    }
+    /* hero section end */
+
+    /* skill section start */
+    .skill-section .container {
+        padding: 40px 35px;
+    }
+    .skill-section .container h1 {
+        font-size: 40px;
+    }
+    .skill-section .container .card {
+        margin-top: 20px;
+    }
+    /* skill section end */
+
+    /* about section start */
+    .about-section .container {
+        padding: 40px;
+    }
+    .about-section .container h6 {
+        margin-top: 35px;
+    }
+    .about-section .container h1 {
+        font-size: 40px;
+    }
+    /* about section end */
+
+    /* portfolio section start */
+    .portfolio-section .container {
+        padding: 40px;
+    }
+    .portfolio-section .container .head-text h1 {
+        font-size: 40px;
+    }
+    .portfolio-section .container button {
+        font-size: 13px;
+    }
+    .portfolio-section .container .card {
+        margin-bottom: 25px;
+    }
+    /* portfolio section end */
+
+    /* testimonial section start */    
+    .testimonial-section .container {
+        padding: 40px;
+    }
+    .testimonial-section .container h1 {
+        font-size: 40px;
+    }
+    .testimonial-section .container .card {
+        margin-bottom: 25px;
+    }
+    /* testimonial section end */
+
+    /* footer section start */
+    .footer-section .container .respon-logo {
+        margin-left:35%;
+    }
+    .footer-section .container .footer-menu ul li a{
+        font-size: 12px;
+    }
+    .footer-section .container .respon-icon{
+        margin-left: 35%;
+    }
+    .footer-section .container .respon-icon{
+        margin-left: 35%;
+    }
+    .footer-section .container hr{
+        margin-left: 8%;
+    }
+    .footer-section .container .foot-bottom-left{
+        margin-left: 32%;
+    }
+    .footer-section .container .foot-bottom-left{
+        margin-left: 35%;
+    }
+    /* footer section end */
+}
+
+@media(min-width:576px) and (max-width:767px) {
+     /* hero section start */
+     .hero-section .container h1 {
+        font-size: 42px;
+    }
+    .hero-section .container img {
+        margin-top: 60px;
+    }
+    .hero-section .container {
+        padding: 100px 35px 50px 35px;
+    }
+    /* hero section end */
+
+    /* skill section start */
+    .skill-section .container {
+        padding: 40px 35px;
+    }
+    .skill-section .container h1 {
+        font-size: 40px;
+    }
+    .skill-section .container .card {
+        margin-top: 20px;
+    }
+    .skill-section .container .card .card-title {
+        font-size:18px;
+    }
+    /* skill section end */
+
+    /* about section start */
+    .about-section .container {
+        padding: 40px;
+    }
+    .about-section .container h6 {
+        margin-top: 35px;
+    }
+    .about-section .container h1 {
+        font-size: 40px;
+    }
+    /* about section end */
+
+    /* portfolio section start */
+    .portfolio-section .container {
+        padding: 40px;
+    }
+    .portfolio-section .container .head-text h1 {
+        font-size: 40px;
+    }
+    .portfolio-section .container button {
+        font-size: 13px;
+    }
+    .portfolio-section .container .card {
+        margin-bottom: 25px;
+    }
+    /* portfolio section end */
+
+    /* testimonial section start */   
+    .testimonial-section .container {
+        padding: 40px;
+    }
+    .testimonial-section .container h1 {
+        font-size: 40px;
+    }
+    .testimonial-section .container .card {
+        margin-bottom: 25px;
+    }
+    /* testimonial section end */
+
+    /* footer section start */
+    .footer-section .container .respon-logo {
+        margin-left:35%;
+    }
+    .footer-section .container .footer-menu ul li a{
+        font-size: 12px;
+    }
+    .footer-section .container .respon-icon{
+        margin-left: 35%;
+    }
+    .footer-section .container .respon-icon{
+        margin-left: 35%;
+    }
+    .footer-section .container hr{
+        margin-left: 8%;
+    }
+    .footer-section .container .foot-bottom-left{
+        margin-left: 32%;
+    }
+    .footer-section .container .foot-bottom-left{
+        margin-left: 35%;
+    }
+    /* footer section end */
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    /* hero section start */
+    .hero-section .container {
+        padding: 100px 35px 50px 35px;
+    }
+    .hero-section .container h1 {
+        font-size: 30px;
+    }
+    .hero-section .container img {
+        margin-top: 60px;
+    }
+    .hero-section .container p{
+        font-size: 15px;
+    }
+    /* hero section end */
+
+    /* skill section start */
+    .skill-section .container {
+        padding: 40px 35px;
+    }
+    .skill-section .container h1 {
+        font-size: 40px;
+    }
+    .skill-section .container .card {
+        margin-top: 20px;
+        padding-left:25px;
+    }
+    .skill-section .container .card .card-title {
+        font-size:18px;
+    }
+    .skill-section .container .card .card-text{
+        font-size: 15px;
+    }
+    /* skill section end */
+
+    /* about section start */
+    .about-section .container {
+        padding: 40px;
+    }
+    .about-section .container h6 {
+        margin-top: 35px;
+    }
+    .about-section .container h1 {
+        font-size: 40px;
+    }
+    .about-section .container p{
+        font-size:15px;
+    }
+    /* about section end */
+
+    /* portfolio section start */
+    .portfolio-section .container {
+        padding: 40px;
+    }
+    .portfolio-section .container .head-text h1 {
+        font-size: 40px;
+    }
+    .portfolio-section .container button {
+        font-size: 13px;
+    }
+    .portfolio-section .container .card {
+        margin-bottom: 25px;
+    }
+    .portfolio-section .container .card .card-text{
+        font-size: 15px;
+    }
+    .portfolio-section .container .card a{
+        font-size: 14px;
+    }
+    .portfolio-section .container .card .icon{
+        font-size: 16px;
+    }
+    /* portfolio section end */
+
+    /* testimonial section start */    
+    .testimonial-section .container {
+        padding: 40px;
+    }
+    .testimonial-section .container h1 {
+        font-size: 40px;
+    }
+    .testimonial-section .container .card {
+        margin-bottom: 25px;
+    }
+    .testimonial-section .container .card p{
+        font-size: 15px;
+    }
+    /* testimonial section end */
+
+    /* footer section start */
+    .footer-section .container .respon-logo {
+        margin-left:35%;
+    }
+    .footer-section .container .footer-menu ul li a{
+        font-size: 12px;
+    }
+    .footer-section .container .footer-logo{
+        margin-left: 5%;
+    }
+    .footer-section .container .respon-icon{
+        margin-left:40%;
+    }
+    .footer-section .container hr{
+        margin-left: 8%;
+    }
+    .footer-section .container .foot-bottom-left{
+        margin-left: 37%;
+    }
+    /* footer section end */
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+    /* .hero-section start */
+    .hero-section .container h1 {
+        font-size: 40px;
+    }
+    /* .hero-section end */
+
+    /* skill-section start */
+    .skill-section .container h1 {
+        font-size: 40px;
+    }
+    .skill-section .container .card .card-title {
+        font-size:17px !important;
+    }
+    /* skill-section end */
+
+    /* about-section start */
+    .about-section .container h1 {
+        font-size: 40px;
+    }
+    /* about-section end */
+
+    /* portfolio-section start */
+    .portfolio-section .container .head-text h1 {
+        font-size: 40px;
+    }
+    /* portfolio-section end */
+
+    /* testimonial-section start */
+    .testimonial-section .container h1 {
+        font-size: 40px;
+    }
+    /* testimonial-section end */
+
+    /* contact-section start */
+    .contact-section .container h1{
+        font-size: 40px;
+    }
+    /* contact-section end */
+    
+    /* footer section start */
+    .footer-section .container .footer-menu ul li a{
+        font-size: 14px;
+    }
+    /* footer section end */
+}
+
+@media(min-width:1200px) and (max-width:1399.99px) {}
+
+@media(min-width:1400px) {}

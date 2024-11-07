@@ -10,12 +10,12 @@
     --h1-h4-h6-color:#282938;
     --h1-font-size:50px;
 }
-/* navbar section start */
+/* navbar section start */ 
 .navbar{
     background: #ffffff;
 }
 .navbar .container img{
-    width:186px;
+    width:170px;
     height:40px;
 }
 .navbar .container ul li a{

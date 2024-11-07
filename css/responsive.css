@@ -1,4 +1,8 @@
-
+@media(max-width:394px){
+    .hero-section .container h1{
+        font-size:30px!important;
+    }
+}
 
 @media(max-width:575px) {
     .navbar .container .btn-contact{
